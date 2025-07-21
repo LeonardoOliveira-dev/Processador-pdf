@@ -22,7 +22,7 @@ Esse é um projeto pessoal desenvolvido em Python com o objetivo de automatizar 
 
 ## Como usar
 
-1. Clone o repositório:
+1. (https://github.com/LeonardoOliveira-dev/Processador-pdf/blob/main/.gitignore)
 2. Instale as dependências:
 3. Prepare os arquivos:
 - Coloque o Excel `Arquivos a separar.xlsx` na raiz do projeto
