@@ -1,4 +1,4 @@
-# Processador-pdf
+xx# Processador-pdf
 
 Ferramenta Python para automação e limpeza de dados em PDF.
 
@@ -24,7 +24,7 @@ Esse é um projeto pessoal desenvolvido em Python com o objetivo de automatizar 
 
 * Report_2023_101.pdf   ( exemplo de como o arquivo estava renomeado)
   
-1. (https://github.com/LeonardoOliveira-dev/Processador-pdf/blob/main/.gitignore)
+1. (https://github.com/LeonardoOliveira-dev/Processador-pdf/blob/main/separador.py)
 2. Instale as dependências:
 3. Prepare os arquivos:
 - Coloque o Excel `Arquivos a separar.xlsx` na raiz do projeto
