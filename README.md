@@ -22,6 +22,8 @@ Esse é um projeto pessoal desenvolvido em Python com o objetivo de automatizar 
 
 ## Como usar
 
+* Report_2023_101.pdf   ( exemplo de como o arquivo estava renomeado)
+  
 1. (https://github.com/LeonardoOliveira-dev/Processador-pdf/blob/main/.gitignore)
 2. Instale as dependências:
 3. Prepare os arquivos:
@@ -33,7 +35,7 @@ Os arquivos válidos serão copiados para a pasta `Selecionados/`.
 ## Estrutura esperada
 
 Processador-pdf/
-├── main.py
+├── separador.py
 ├── Arquivos a separar.xlsx
 ├── Pdf/
 │ └── seus_arquivos.pdf
